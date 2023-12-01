@@ -1,2 +1,4 @@
 # Movie-Recommendation-System
-Movie Recommendation System using Text-vectorization
+Movie Recommendation System using KNN,Text Vectorization & Cosine Similarity.
+This Project delves into the realm of /machine Learning,focusing on a movie Recommendation System using Content basesd Filtering.We use Text-Vectorization to Cosine Similarity.By Plotting these scores on a two dimensional plane,distance between vectors is analyzed,which provides effective and precise recommendations.
+The proposed model considers factors like user behavior, preferences, and content similarity to provide personalized movie suggestions.By leveraging machine learning algorithms, the Movie Recommendation System outlined in this project seeks to enhance user engagement and overall customer satisfaction. The ultimate goal of this project is to develop a user-friendly and practical movie recommendation system that empowers developers to create effective and personalized content suggestions, enhancing the overall viewing experience for users.
